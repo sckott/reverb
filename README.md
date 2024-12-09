@@ -17,7 +17,3 @@ Some more text
                 ||     ||
 ```
 
-## section 
-
-more stuff
-
